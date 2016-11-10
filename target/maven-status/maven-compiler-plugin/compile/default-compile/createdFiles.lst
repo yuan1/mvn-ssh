@@ -1,7 +1,0 @@
-cn\javayuan\beans\User.class
-cn\javayuan\service\impl\UserManagerImpl.class
-cn\javayuan\dao\UserDao.class
-cn\javayuan\dao\BaseDao.class
-cn\javayuan\service\UserManager.class
-cn\javayuan\action\UserAction.class
-cn\javayuan\dao\impl\UserDaoImpl.class
